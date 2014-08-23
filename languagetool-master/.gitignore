@@ -1,0 +1,11 @@
+*.iml
+*.bak
+.class
+.classpath
+.idea
+.ignore
+.project
+.settings
+.metadata
+build
+target
